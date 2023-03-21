@@ -1,0 +1,15 @@
+C:\C# Projects\BatchFileTest\bin\Debug\net6.0\BatchFileTest.exe
+C:\C# Projects\BatchFileTest\bin\Debug\net6.0\BatchFileTest.deps.json
+C:\C# Projects\BatchFileTest\bin\Debug\net6.0\BatchFileTest.runtimeconfig.json
+C:\C# Projects\BatchFileTest\bin\Debug\net6.0\BatchFileTest.dll
+C:\C# Projects\BatchFileTest\bin\Debug\net6.0\BatchFileTest.pdb
+C:\C# Projects\BatchFileTest\obj\Debug\net6.0\BatchFileTest.csproj.AssemblyReference.cache
+C:\C# Projects\BatchFileTest\obj\Debug\net6.0\BatchFileTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projects\BatchFileTest\obj\Debug\net6.0\BatchFileTest.AssemblyInfoInputs.cache
+C:\C# Projects\BatchFileTest\obj\Debug\net6.0\BatchFileTest.AssemblyInfo.cs
+C:\C# Projects\BatchFileTest\obj\Debug\net6.0\BatchFileTest.csproj.CoreCompileInputs.cache
+C:\C# Projects\BatchFileTest\obj\Debug\net6.0\BatchFileTest.dll
+C:\C# Projects\BatchFileTest\obj\Debug\net6.0\refint\BatchFileTest.dll
+C:\C# Projects\BatchFileTest\obj\Debug\net6.0\BatchFileTest.pdb
+C:\C# Projects\BatchFileTest\obj\Debug\net6.0\BatchFileTest.genruntimeconfig.cache
+C:\C# Projects\BatchFileTest\obj\Debug\net6.0\ref\BatchFileTest.dll
